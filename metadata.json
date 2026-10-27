@@ -1,0 +1,6 @@
+{
+  "name": "NutriPath",
+  "description": "Visual, offline-first nutrition awareness, food planning, two-stage reminders, meal logging, and hydration tracking app.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
